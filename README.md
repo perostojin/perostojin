@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hej och välkommen till min GitHub-profil!
+Jag heter **Per Ostojin** och jag är en passionerad webbutvecklare med fokus på **MERN-stack** och SEO-optimering.  
 
-<!--
-**Per-Ostojin/Per-Ostojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Jag älskar att bygga projekt i **React, Node.js och MongoDB**  
+🔍 Just nu utforskar jag **WordPress & WooCommerce**  
 
-Here are some ideas to get you started:
+📌 **Se min portfolio:** [perostojin.netlify.app](https://perostojin.netlify.app/)  
+📌 **Följ mina projekt på GitHub!**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Mina senaste projekt
+- 🎵 **Spotify-klon** – [GitHub](https://github.com/Per-Ostojin/Spotify-clone)  
+- ✅ **Todo-App i React** – [GitHub](https://github.com/Per-Ostojin/todo-app)  
+
+---
+
+## 📊 GitHub Statistik  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Per-Ostojin&show_icons=true&theme=tokyonight)  
+
+---
+
+## 📫 **Kontakta mig**  
+📧 [perostojin@outlook.com](mailto:perostojin@outlook.com)  
+📍 Varberg, Sverige  
