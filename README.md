@@ -17,7 +17,7 @@ Jag heter **Per Ostojin** och jag är en passionerad webbutvecklare med fokus p�
 ---
 
 ## 📊 GitHub Statistik  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Per-Ostojin&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perostojin&show_icons=true&theme=tokyonight)  
 
 ---
 
