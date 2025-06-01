@@ -6,13 +6,7 @@ Jag heter **Per Ostojin** och jag är en passionerad webbutvecklare med fokus p�
 
 📌 **Se min portfolio:** [perostojin.netlify.app](https://perostojin.netlify.app/) 🔗
 
-📌 **Följ mina projekt på GitHub!**  
-
----
-
-## 💼 Mina senaste projekt
-- 🎵 **Spotify-klon** – [GitHub](https://github.com/Per-Ostojin/Spotify-clone)  
-- ✅ **Todo-App i React** – [GitHub](https://github.com/Per-Ostojin/todo-app)  
+📌 **Följ mina projekt på GitHub!** 
 
 ---
 
